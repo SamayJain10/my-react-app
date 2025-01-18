@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <header className="App-header">
                 <h1>Welcome to My React App</h1>
-                <p>This is a simple app deployed on Vercel!</p>
+                <p>This is a simple app deployed on Vercel by Samay Jain!</p>
             </header>
         </div>
     );

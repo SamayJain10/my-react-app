@@ -7,6 +7,7 @@ function App() {
             <header className="App-header">
                 <h1>Welcome to GritFit</h1>
                 <p>A simple Web Application that helps you reach your goal for a dream body!</p>
+                <p>sara jain is my sister</p>
             </header>
         </div>
     );

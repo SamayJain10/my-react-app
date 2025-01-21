@@ -4,11 +4,12 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            <header className="App-header">
+            <div className="background"></div>
+            <div className="content">
+                <img src = "/logo.jpeg" alt="logo" />
                 <h1>Welcome to GritFit</h1>
-                <p>A simple Web Application that helps you reach your goal for a dream body!</p>
-                <p>sara jain is my sister and she is 16 years old</p>
-            </header>
+                <p>Helps you build nutrition habits for hypertrophy.!</p>
+            </div>
         </div>
     );
 }

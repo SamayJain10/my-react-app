@@ -6,7 +6,7 @@ function App() {
         <div className="App">
             <div className="background"></div>
             <div className="content">
-                <img src = "/logo.jpeg" alt="logo" />
+                <img src = "/logo.jpg" alt="logo" className = "logo"/>
                 <h1>Welcome to BoldGains</h1>
                 <p>Helps you build your dream body!</p>
             </div>

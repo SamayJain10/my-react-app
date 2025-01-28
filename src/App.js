@@ -7,8 +7,8 @@ function App() {
             <div className="background"></div>
             <div className="content">
                 <img src = "/logo.jpeg" alt="logo" />
-                <h1>Welcome to GritFit</h1>
-                <p>Helps you build nutrition habits for hypertrophy.!</p>
+                <h1>Welcome to BoldGains</h1>
+                <p>Helps you build your dream body!</p>
             </div>
         </div>
     );
